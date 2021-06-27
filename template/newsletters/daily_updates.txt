@@ -1,0 +1,26 @@
+Covid-19 Statistics on {{ _date }}
+    
+Confirmed: {{ confirm }}
+    
+Recovered: {{ recover }}
+    
+Deceased:  {{ deceased }}
+    
+Statistics Till Date
+
+Confirmed: {{ confirm }}
+    
+Active:    {{ active }}
+    
+Recovered: {{ recover }}
+    
+Deceased:  {{ deceased }}
+
+If you wish to unsubscribe, visit this link: Unsubscribe.
+
+Warm Regards,   
+   
+Admin, 
+Covid19inIndia
+Admin@covid19inindia.in
+www.covid19inindia.in

@@ -1,0 +1,5 @@
+    if request.method == 'POST':        
+        email_to = request.POST.get('input-2')
+        send_mail("Subscrption Successful", "Thanks for subscription", settings.EMAIL_HOST_USER, [email_to,])
+        print(email_to) 
+        ans="Subsribe succesfully"
